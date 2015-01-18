@@ -101,7 +101,7 @@
                             <imageView userInteractionEnabled="NO" contentMode="scaleToFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="alberteinsteinstamp.jpeg" translatesAutoresizingMaskIntoConstraints="NO" id="kfL-R7-Lex">
                                 <rect key="frame" x="0.0" y="0.0" width="240" height="128"/>
                                 <variation key="widthClass=compact" fixedFrame="YES">
-                                    <rect key="frame" x="252" y="162" width="100" height="100"/>
+                                    <rect key="frame" x="252" y="164" width="100" height="100"/>
                                 </variation>
                             </imageView>
                         </subviews>
